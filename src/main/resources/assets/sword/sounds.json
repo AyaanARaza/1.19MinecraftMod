@@ -1,0 +1,8 @@
+{
+  "soulless" : {
+    "sounds" : [ {
+      "name" : "sword:sounds/soulless",
+      "stream" : true
+    } ]
+  }
+}

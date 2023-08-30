@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "sword:raw_creeper_ore"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:tnt"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:air"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:survives_explosion"
+          }
+        ]
+      }
+    ]
+  }

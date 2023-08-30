@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "cookingtime": 100,
+    "experience": 0.5,
+    "ingredient": {
+      "item": "sword:raw_creeper_ore"
+    },
+    "result": "sword:ash"
+  }

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "cookingtime": 150,
+    "experience": 2,
+    "ingredient": {
+      "item": "sword:cold_magma_fusion_solution"
+    },
+    "result": "sword:magma_fusion_solution"
+  }

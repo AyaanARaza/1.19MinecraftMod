@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      "sword:creeper_ore",
+      "sword:bluestone_block",
+      "sword:deepslate_creeper_ore",
+      "sword:nether_creeper_ore"
+    ]
+  }

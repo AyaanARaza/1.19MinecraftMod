@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "description": "Sword_Pack",
+        "pack_format": 9,
+        "forge:resource_pack_format": 9,
+        "forge:data_pack_format": 10,
+   		"implementation_version": 1.19
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SES",
+        "PGC",
+        "SES"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:sculk"
+        },
+        "E": {
+            "item": "minecraft:ender_chest"
+        },
+        "P": {
+            "item": "minecraft:ender_pearl"
+        },
+        "G": {
+            "item": "minecraft:raw_gold"
+        },
+        "C": {
+            "item": "minecraft:echo_shard"
+        }
+    },
+    "result": {
+        "item": "sword:golden_soul_crystal"
+    }
+}

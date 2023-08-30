@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SBS",
+        "SGS",
+        "SBS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:soul_sand"
+        },
+        "G": {
+            "item": "sword:golden_soul_crystal"
+        },
+        "B": {
+            "item": "sword:bluestone_dust"
+        }
+    },
+    "result": {
+        "item": "sword:life_steal"
+    }
+}

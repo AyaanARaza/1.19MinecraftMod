@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " F ",
+        " I ",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "I": {
+            "item": "minecraft:flint_and_steel"
+        },
+        "F": {
+            "item": "minecraft:flint"
+        }
+    },
+    "result": {
+        "item": "sword:fire_sword"
+    }
+}

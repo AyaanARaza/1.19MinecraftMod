@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X  ",
+        " S ",
+        "  S"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "X": {
+            "item": "sword:golden_soul_crystal"
+        }
+    },
+    "result": {
+        "item": "sword:golden_soul_staff"
+    }
+}

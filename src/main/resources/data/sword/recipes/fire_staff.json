@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BGB",
+        "CMC",
+        "BSB"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:blaze_powder"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "G": {
+            "item": "sword:golden_soul_crystal"
+        },
+        "M": {
+            "item": "minecraft:magma_block"
+        },
+        "C": {
+            "item": "minecraft:magma_cream"
+        }
+    },
+    "result": {
+        "item": "sword:fire_staff"
+    }
+}

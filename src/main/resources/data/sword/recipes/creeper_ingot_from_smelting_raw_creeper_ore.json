@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "cookingtime": 200,
+    "experience": 0.5,
+    "ingredient": {
+      "item": "sword:raw_creeper_ore"
+    },
+    "result": "sword:creeper_ingot"
+  }

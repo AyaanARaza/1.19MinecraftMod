@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 10,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "sword:bluestone_dust"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:air"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:survives_explosion"
+          }
+        ]
+      }
+    ]
+  }

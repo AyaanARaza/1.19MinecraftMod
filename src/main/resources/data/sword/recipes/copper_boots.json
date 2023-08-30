@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "S S",
+        "S S"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:copper_ingot"
+        }
+    },
+    "result": {
+        "item": "sword:copper_boots"
+    }
+}

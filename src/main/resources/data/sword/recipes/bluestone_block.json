@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BBB",
+        "BBB"
+    ],
+    "key": {
+        "B": {
+            "item": "sword:bluestone_dust"
+        }
+    },
+    "result": {
+        "item": "sword:bluestone_block"
+    }
+}
